@@ -48,13 +48,13 @@ Create this HTML structure:
     </ul>
     <div class="ionTabs__body">
         <div class="ionTabs__item" data-name="Tab_1_name">
-            Контент вкладки 1
+            Tab 1 content
         </div>
         <div class="ionTabs__item" data-name="Tab_2_name">
-            Контент вкладки 2
+            Tab 2 content
         </div>
         <div class="ionTabs__item" data-name="Tab_3_name">
-            Контент вкладки 3
+            Tab 3 content
         </div>
 
         <div class="ionTabs__preloader"></div>
