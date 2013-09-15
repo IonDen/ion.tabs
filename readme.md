@@ -64,7 +64,8 @@ Create this HTML structure:
 
 To initialise tabs, call $.ionTabs("selector"):
 ```javascript
-$.ionTabs("#tabs_1"); or $.ionTabs("#tabs_1, #tabs_2, #tabs_3"); if you have many tabs groups on the page
+$.ionTabs("#tabs_1");                       // one tabs group
+$.ionTabs("#tabs_1, #tabs_2, #tabs_3");     // if you have many tabs groups on the page
 ```
 
 
