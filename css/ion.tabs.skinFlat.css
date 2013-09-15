@@ -1,0 +1,45 @@
+/* Ion.Tabs: Flat Skin
+// css version 1.0.0
+// by Denis Ineshin | ionden.com
+// ===================================================================================================================*/
+
+/* =====================================================================================================================
+// Ion.Tabs: Skin details */
+
+.ionTabs {
+    margin: 0 0 30px;
+}
+    .ionTabs__head {
+
+    }
+
+    .ionTabs__tab {
+        top: 3px;
+        font-size: 14px; line-height: 16px;
+        font-weight: bold;
+        background: #fff;
+        padding: 20px 26px 22px
+    }
+        .ionTabs__tab:hover {
+            background: #e5e5e5;
+        }
+        .ionTabs__tab.ionTabs__tab_state_active {
+            top: 0;
+            background: #efefef;
+            box-shadow: -3px 3px 0 rgba(0,0,0,0.15);
+        }
+
+    .ionTabs__body {
+        background: #efefef;
+
+        box-shadow: -3px 3px 0 rgba(0,0,0,0.15);
+    }
+
+    .ionTabs__item {
+        padding: 15px 26px;
+    }
+
+    .ionTabs__preloader {
+        height: 50px;
+        background: url(../img/preloader-flat.gif) no-repeat 25px 50%;
+    }

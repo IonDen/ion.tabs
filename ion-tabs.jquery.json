@@ -1,0 +1,33 @@
+﻿{
+    "name": "ion-tabs",
+    "version": "1.0.0",
+    "title": "Ion.Tabs",
+    "description": "jQuery tabs plugin. Easy and well done tabs with many options and skin support",
+    "keywords": [
+        "jquery",
+        "tabs",
+        "tabbed",
+        "interface",
+        "navigation",
+        "switcher",
+        "ui"
+    ],
+    "author": {
+        "name": "IonDen",
+        "url": "https://github.com/IonDen",
+        "email": "denis.ineshin@gmail.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://ionden.com/a/plugins/licence-en.html"
+        }
+    ],
+    "homepage": "https://github.com/IonDen/ion.tabs",
+    "docs": "https://github.com/IonDen/ion.tabs/blob/master/readme.md",
+    "demo": "http://ionden.com/a/plugins/ion.tabs/en.html",
+    "download": "http://ionden.com/a/plugins/ion.tabs/ion.tabs-1.0.0.zip",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
