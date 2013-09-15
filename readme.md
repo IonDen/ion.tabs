@@ -1,4 +1,4 @@
-# Ion.Tab 1.0.0
+# Ion.Tabs 1.0.0
 
 > English description | <a href="readme.ru.md">Описание на русском</a>
 
