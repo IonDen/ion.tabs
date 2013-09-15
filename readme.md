@@ -2,7 +2,7 @@
 
 > English description | <a href="readme.ru.md">Описание на русском</a>
 
-Plugin for playing sounds on events.
+jQuery tabs plugin. Easy and well done tabs with many options and skin support
 * <a href="http://ionden.com/a/plugins/ion.tabs/en.html">Project page and demos</a>
 * <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.0.zip">Download ion.tabs-1.0.0.zip</a>
 
