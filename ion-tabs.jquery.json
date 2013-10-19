@@ -1,6 +1,6 @@
 ﻿{
     "name": "ion-tabs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Ion.Tabs",
     "description": "jQuery tabs plugin. Easy and well done tabs with many options and skin support",
     "keywords": [
@@ -26,8 +26,8 @@
     "homepage": "https://github.com/IonDen/ion.tabs",
     "docs": "https://github.com/IonDen/ion.tabs/blob/master/readme.md",
     "demo": "http://ionden.com/a/plugins/ion.tabs/en.html",
-    "download": "http://ionden.com/a/plugins/ion.tabs/ion.tabs-1.0.0.zip",
+    "download": "http://ionden.com/a/plugins/ion.tabs/ion.tabs-1.0.1.zip",
     "dependencies": {
-        "jquery": ">=1.9"
+        "jquery": ">=1.7"
     }
 }

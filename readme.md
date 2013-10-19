@@ -1,10 +1,10 @@
-# Ion.Tabs 1.0.0
+# Ion.Tabs 1.0.1
 
 > English description | <a href="readme.ru.md">Описание на русском</a>
 
 jQuery tabs plugin. Easy and well done tabs with many options and skin support
 * <a href="http://ionden.com/a/plugins/ion.tabs/en.html">Project page and demos</a>
-* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.0.zip">Download ion.tabs-1.0.0.zip</a>
+* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.1.zip">Download ion.tabs-1.0.1.zip</a>
 
 ***
 
@@ -20,7 +20,7 @@ jQuery tabs plugin. Easy and well done tabs with many options and skin support
 
 
 ## Dependencies
-* <a href="http://jquery.com/" target="_blank">jQuery 1.9+</a>
+* <a href="http://jquery.com/" target="_blank">jQuery 1.7+</a>
 
 
 ## Usage
@@ -131,8 +131,8 @@ To subscribe on tabs change event you can do this:
 ```javascript
 $(window).on("ionTabsChange", function(e, obj){
     console.log(obj.group);
-    console.log(obj.name);
-    console.log(obj.id);
+    console.log(obj.tab);
+    console.log(obj.tabId);
 });
 ```
 
@@ -147,4 +147,5 @@ $(".myButton").on("click", function(){
 
 
 ## Update history
+* October 19, 2013 - Fixed some minor bugs, many code optimisations, fixed some bugs in plugin description
 * September 15, 2013 - Plugin release

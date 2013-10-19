@@ -1,10 +1,10 @@
-# Ion.Tabs 1.0.0
+# Ion.Tabs 1.0.1
 
 > <a href="readme.md">English description</a> | Описание на русском
 
-Легкий и удобный плагин для создания вкладок с поддержкой скинов.
+Легкий и удобный плагин для создания вкладок(табов) с поддержкой скинов.
 * <a href="http://ionden.com/a/plugins/ion.tabs/">Страница проекта и демо</a>
-* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.0.zip">Скачать ion.tabs-1.0.0.zip</a>
+* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.1.zip">Скачать ion.tabs-1.0.1.zip</a>
 
 ***
 
@@ -20,7 +20,7 @@
 
 
 ## Зависимости
-* <a href="http://jquery.com/" target="_blank">jQuery 1.9+</a>
+* <a href="http://jquery.com/" target="_blank">jQuery 1.7+</a>
 
 
 ## Использование
@@ -131,8 +131,8 @@ $.ionTabs("#tabs_1, #tabs_2", {
 ```javascript
 $(window).on("ionTabsChange", function(e, obj){
     console.log(obj.group);
-    console.log(obj.name);
-    console.log(obj.id);
+    console.log(obj.tab);
+    console.log(obj.tabId);
 });
 ```
 
@@ -147,4 +147,5 @@ $(".myButton").on("click", function(){
 
 
 ## История обновлений
+* 19.10.2013 - Испрелено несколько мелких багов, проведена оптимизация кода, исправлены неточности в описании
 * 15.09.2013 - Релиз плагина
