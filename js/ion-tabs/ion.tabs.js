@@ -1,5 +1,5 @@
 ﻿// Ion.Tabs
-// version 1.0.1 Build: 16
+// version 1.0.2 Build: 17
 // © 2013 Denis Ineshin | IonDen.com
 //
 // Project page:    http://ionden.com/a/plugins/ion.tabs/en.html
@@ -228,7 +228,8 @@
         $(selector).each(function () {
             $this = $(this);
             var name = encodeURIComponent($this.data("name"));
-            tabs[name] = new Tabs($this).init();
+            tabs[name] = new Tabs($this);
+            tabs[name].init();
         });
     };
 

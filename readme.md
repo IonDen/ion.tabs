@@ -1,10 +1,10 @@
-# Ion.Tabs 1.0.1
+# Ion.Tabs 1.0.2
 
 > English description | <a href="readme.ru.md">Описание на русском</a>
 
 jQuery tabs plugin. Easy and well done tabs with many options and skin support
 * <a href="http://ionden.com/a/plugins/ion.tabs/en.html">Project page and demos</a>
-* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.1.zip">Download ion.tabs-1.0.1.zip</a>
+* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.2.zip">Download ion.tabs-1.0.2.zip</a>
 
 ***
 
@@ -147,5 +147,6 @@ $(".myButton").on("click", function(){
 
 
 ## Update history
+* November 01, 2013 - Fixed bug with setTab method
 * October 19, 2013 - Fixed some minor bugs, many code optimisations, fixed some bugs in plugin description
 * September 15, 2013 - Plugin release
