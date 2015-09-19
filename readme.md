@@ -150,7 +150,6 @@ $(".myButton").on("click", function(){
 ```
 
 
-## Update history
-* November 01, 2013 - Fixed bug with setTab method
-* October 19, 2013 - Fixed some minor bugs, many code optimisations, fixed some bugs in plugin description
-* September 15, 2013 - Plugin release
+## <a href="history.md">Update history</a>
+
+[![](https://pledgie.com/campaigns/25694.png?skin_name=chrome)](https://pledgie.com/campaigns/25694)
