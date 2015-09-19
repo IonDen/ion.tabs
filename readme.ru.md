@@ -1,12 +1,16 @@
-# Ion.Tabs 1.0.2
+![ion.tabs](_tmp/logo-ion-tabs.png)
 
 > <a href="readme.md">English description</a> | Описание на русском
 
 Легкий и удобный плагин для создания вкладок(табов) с поддержкой скинов.
-* <a href="http://ionden.com/a/plugins/ion.tabs/">Страница проекта и демо</a>
-* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.2.zip">Скачать ion.tabs-1.0.2.zip</a>
 
 ***
+
+* Версия: 1.0.2
+* <a href="http://ionden.com/a/plugins/ion.tabs/">Страница проекта и демо</a>
+* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.2.zip">Скачать ZIP-архив</a>
+
+[![](https://pledgie.com/campaigns/25694.png?skin_name=chrome)](https://pledgie.com/campaigns/25694)
 
 ## Описание
 * Поддерживает несколько групп вкладок на одной странице.

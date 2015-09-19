@@ -1,12 +1,16 @@
-# Ion.Tabs 1.0.2
+![ion.tabs](_tmp/logo-ion-tabs.png)
 
 > English description | <a href="readme.ru.md">Описание на русском</a>
 
 jQuery tabs plugin. Easy and well done tabs with many options and skin support
-* <a href="http://ionden.com/a/plugins/ion.tabs/en.html">Project page and demos</a>
-* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.2.zip">Download ion.tabs-1.0.2.zip</a>
 
 ***
+
+* Version: 1.0.2
+* <a href="http://ionden.com/a/plugins/ion.tabs/en.html">Project page and demos</a>
+* <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.2.zip">Download ZIP</a>
+
+[![](https://pledgie.com/campaigns/25694.png?skin_name=chrome)](https://pledgie.com/campaigns/25694)
 
 ## Description
 * Supports many groups of tabs at one page.
