@@ -10,8 +10,6 @@
 * <a href="http://ionden.com/a/plugins/ion.tabs/">Страница проекта и демо</a>
 * <a href="http://ionden.com/a/plugins/ion.tabs/ion.sound-1.0.2.zip">Скачать ZIP-архив</a>
 
-[![](https://pledgie.com/campaigns/25694.png?skin_name=chrome)](https://pledgie.com/campaigns/25694)
-
 ## Описание
 * Поддерживает несколько групп вкладок на одной странице.
 * Генерирует события и выполняет функции обратного вызова.
@@ -154,6 +152,10 @@ $(".myButton").on("click", function(){
 
 ***
 
-Поддержите плагин:
+#### Поддержите разработку плагинов серии Ion:
 
-[![](https://pledgie.com/campaigns/25694.png?skin_name=chrome)](https://pledgie.com/campaigns/25694)
+* Пожертвовать через сервис Pledgie: [![](https://pledgie.com/campaigns/25694.png?skin_name=chrome)](https://pledgie.com/campaigns/25694)
+
+* Пожертвовать напрямую через Paypal: https://www.paypal.me/IonDen
+
+* Пожертвовать напрямую через Яндекс.Деньги: http://yasobe.ru/na/razrabotku
